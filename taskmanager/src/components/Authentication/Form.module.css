@@ -1,0 +1,35 @@
+.entry{
+    margin-top: 10%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.form{
+    background-color: gray;
+    margin-top: 5%;
+    padding: 4%;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.submit{
+    color: black;
+    border-radius: 5px;
+    margin-top: 10%;
+    background-color: cornflowerblue;
+    padding: 2%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.signup{
+    color: black;
+    border-radius: 5px;
+    margin-top: 10%;
+    background-color: rgb(240, 149, 37);
+    padding: 2%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
